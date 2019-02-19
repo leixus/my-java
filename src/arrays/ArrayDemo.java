@@ -12,5 +12,9 @@ public class ArrayDemo {
         int age = 3;
 
         int[] arr = new int[3];
+
+        arr[0] = 89;
+
+        System.out.print(arr[0]);
     }
 }
